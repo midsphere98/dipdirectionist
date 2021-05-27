@@ -14,4 +14,4 @@ elif 180<directions<270:            ## South-west
 elif 270<directions<360:            ## North-west
     print("N",abs(direc_after),"E","/",dips,"NW")
 else:
-    print("Check your value and fuck you")
+    print("Check your value")
