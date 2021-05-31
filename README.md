@@ -1,2 +1,2 @@
 # dipdirectionist
-dip/dipdirection Converting program
+dip / dip direction Converting program
